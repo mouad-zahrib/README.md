@@ -18,4 +18,4 @@ Click on any certificate name to open the file
 
 ## 🔗 Back to Main Profile
 
-[⬅️ Return to main README](../README.md)
+[⬅️ Return to main README](https://github.com/mouad-zahrib/README.md/blob/main/README.md)
