@@ -42,9 +42,9 @@ Mon parcours en informatique m'a conduit à développer une passion pour la cybe
 </div>
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Cybrary-2E9BD6?&style=for-the-badge&logoColor=white" />
-</div>
+<a href="certificates/">
+    <img src="https://img.shields.io/badge/-Cybrary-2E9BD6?&style=for-the-badge&logoColor=white" />
+</a>
 
 ## Projets
 - Simple Cisco Network 
