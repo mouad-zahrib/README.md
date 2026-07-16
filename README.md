@@ -1,5 +1,5 @@
 # Bonjour, je suis Mouad Zahrib
-<a href="[www.linkedin.com/in/mouad-zahrib-5177a6252](https://www.linkedin.com/in/mouad-zahrib-5177a6252)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mouad-zahrib-5177a6252"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Je suis récemment diplômé et je porte un intérêt profond pour la technologie ainsi qu'un engagement fort à résoudre des problèmes complexes.
 
