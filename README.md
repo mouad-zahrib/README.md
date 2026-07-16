@@ -42,7 +42,7 @@ Mon parcours en informatique m'a conduit à développer une passion pour la cybe
 </div>
 
 ## Certifications
-<a href="certificates/">
+<a href="https://github.com/mouad-zahrib/README.md/blob/certificates/">
     <img src="https://img.shields.io/badge/-Cybrary-2E9BD6?&style=for-the-badge&logoColor=white" />
 </a>
 
